@@ -1,0 +1,28 @@
+_repo: A-Treatise-on-Foreign-Teas--13-Abstracted-From-An-Ingenious-Work-Lately-Published-Entitled-An__28549
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Hugh
+    deathdate: 1789
+    gutenberg_agent_id: '33395'
+    url: http://www.gutenberg.org/2009/agents/33395
+description: ''
+gutenberg_issued: '2009-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tea -- Health aspects -- India'
+- !lcc 'RM'
+- !lcsh 'Tea -- Health aspects'
+- !lcsh 'Tea -- Health aspects -- China'
+title: "A Treatise on Foreign Teas\r\nAbstracted From An Ingenious Work, Lately Published,\
+  \ Entitled An Essay On the Nerves"
+url: http://www.gutenberg.org/ebooks/28549
