@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33395'
     url: http://www.gutenberg.org/2009/agents/33395
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28549#A-Treatise-on-Foreign-Teas--13-Abstracted-From-An-Ingenious-Work-Lately-Published-Entitled-An_
 gutenberg_issued: '2009-04-10'
 gutenberg_type: Text
 identifiers:
